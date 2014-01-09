@@ -18,3 +18,34 @@
 }
 */
 
+ul.tabs
+{
+	width: 100%;
+	padding-left: 0px;
+	list-style: none;
+	text-align: center;
+}
+
+ul.tabs li
+{
+	display: inline-block;
+		
+}
+
+ul.tabs li a
+{
+	border: 4px solid green;
+	padding: 3px;
+	border-radius: 27px;
+	background-color: green;
+	color: white;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+ul.tabs li a:hover
+{
+	border-color: lightgreen;
+	background-color: lightgreen;
+	transition: all 0.5s;
+}
