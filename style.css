@@ -161,3 +161,10 @@ ul.punkinlist li img
 	max-width: 100%;
 	max-height: 100%;
 }
+
+img.happyface
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}

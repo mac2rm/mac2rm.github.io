@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="598"
+     inkscape:window-x="175"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke-width:18;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3756"
+       sodipodi:cx="430"
+       sodipodi:cy="430.93362"
+       sodipodi:rx="232.85715"
+       sodipodi:ry="232.85715"
+       d="m 662.85715,430.93362 a 232.85715,232.85715 0 1 1 -465.7143,0 232.85715,232.85715 0 1 1 465.7143,0 z"
+       inkscape:export-filename="C:\Users\Student\Documents\GitHub\mac2rm.github.io\images\happyface.png"
+       inkscape:export-xdpi="96.625763"
+       inkscape:export-ydpi="96.625763" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke-width:18;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3758"
+       sodipodi:cx="357.14285"
+       sodipodi:cy="355.21933"
+       sodipodi:rx="57.142857"
+       sodipodi:ry="80"
+       d="m 414.28571,355.21933 a 57.142857,80 0 1 1 -114.28571,0 57.142857,80 0 1 1 114.28571,0 z"
+       transform="matrix(0.575,0,0,0.75,150.35715,71.661975)"
+       inkscape:export-filename="C:\Users\Student\Documents\GitHub\mac2rm.github.io\images\happyface.png"
+       inkscape:export-xdpi="96.625763"
+       inkscape:export-ydpi="96.625763" />
+    <path
+       transform="matrix(0.575,0,0,0.75,296.07144,68.804832)"
+       d="m 414.28571,355.21933 a 57.142857,80 0 1 1 -114.28571,0 57.142857,80 0 1 1 114.28571,0 z"
+       sodipodi:ry="80"
+       sodipodi:rx="57.142857"
+       sodipodi:cy="355.21933"
+       sodipodi:cx="357.14285"
+       id="path3778"
+       style="fill:#000000;fill-opacity:1;stroke-width:18;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Student\Documents\GitHub\mac2rm.github.io\images\happyface.png"
+       inkscape:export-xdpi="96.625763"
+       inkscape:export-ydpi="96.625763" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 285.71428,500.93362 c 87.00212,76.97561 225.35858,84.70329 297.14286,-5.71429"
+       id="path3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Student\Documents\GitHub\mac2rm.github.io\images\happyface.png"
+       inkscape:export-xdpi="96.625763"
+       inkscape:export-ydpi="96.625763" />
+  </g>
+</svg>
