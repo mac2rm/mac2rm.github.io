@@ -19,6 +19,19 @@ body
 	*/
 }
 
+.openingquote
+{
+	text-align: center;
+	font-style: italic;
+	font-size: 18pt;
+}
+
+.quoteattribution
+{
+	text-align: right;
+	font-style: italic;
+}
+
 .centerthis
 {
 	box-sizing:border-box;
