@@ -140,3 +140,24 @@ ul.personaltabs li a:hover
 	transition: all 0.5s;
 }
 
+ul.punkinlist
+{
+	width: 100%;
+	padding-left: 0px;
+	list-style: none;
+	text-align: center;
+}
+
+ul.punkinlist li
+{
+	display: block;
+	padding-left: 1em;
+	padding-right: 1em;
+	font-size: 13pt;
+}
+
+ul.punkinlist li img
+{
+	max-width: 100%;
+	max-height: 100%;
+}
