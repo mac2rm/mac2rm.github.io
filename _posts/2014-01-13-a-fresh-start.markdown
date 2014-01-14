@@ -6,7 +6,7 @@ title: A Fresh Start
 Today was the first day of my second semester of college classes. It was a much needed fresh start. I had a rough 
 first semester at UVA. Not in the sense that I struggled with classes or couldn't figure out laundry or was homesick 
 all the time. Rather, I had a rough semester because I wasn't happy. There is a LOT of drinking and partying at the 
-University of Virginia. There is also a fair amount of pot smoking, class-skipping, and rule-breaking in general. 
+University of Virginia. There is also a fair amount of pot smoking, class skipping, and rule breaking in general. 
 I'm really not into any of that. I struggled with the idea that there are people here, at the best university in 
 Virginia, whose primary activities are being or becoming intoxicated. It just didn't seem possible. Surely they do 
 SOMETHING else. Anything. Please?
@@ -29,3 +29,4 @@ I am taking more courses and more credits, I'm making an active effort to meet w
 fun things. I am also looking to start my own club, a Spanish-language conversation forum called Gringo Group. Details 
 to follow. More than anything, however, I am looking for a change of attitude. I can't let anyone else's choices bother me. 
 This is my college experience too, and I'm going to make to the most of it. This is my time to be happy.
+
