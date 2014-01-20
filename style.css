@@ -24,11 +24,18 @@ body
 	padding-top: 0.5em;
 }
 
-.openingquote
+.quoteheader
+{
+	text-align: center;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+.quote
 {
 	text-align: center;
 	font-style: italic;
-	font-size: 18pt;
+	font-size: 16pt;
 }
 
 .quoteattribution
@@ -178,6 +185,22 @@ ul.punkinlist li img
 {
 	max-width: 100%;
 	max-height: 100%;
+}
+
+ul.quotelist
+{
+	width: 100%;
+	padding-left: 0px;
+	list-style: none;
+	text-align: center;
+}
+
+ul.quotelist li
+{
+	display: block;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.75em;
 }
 
 img.happyface
